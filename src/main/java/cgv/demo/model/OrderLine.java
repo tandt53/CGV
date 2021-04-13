@@ -1,6 +1,4 @@
-package vn.techmaster.cinema.model;
-
-import java.util.Set;
+package cgv.demo.model;
 
 public class OrderLine {
     private Long id;

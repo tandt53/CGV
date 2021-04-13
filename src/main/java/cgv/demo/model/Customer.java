@@ -1,4 +1,4 @@
-package vn.techmaster.cinema.model;
+package cgv.demo.model;
 
 import java.sql.Timestamp;
 

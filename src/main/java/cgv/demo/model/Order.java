@@ -1,8 +1,9 @@
-package vn.techmaster.cinema.model;
+package cgv.demo.model;
+import cgv.demo.model.Customer;
+import cgv.demo.model.OrderLine;
 
 import java.sql.Timestamp;
 import java.util.Collection;
-import java.util.List;
 
 public class Order {
     private Long id;
